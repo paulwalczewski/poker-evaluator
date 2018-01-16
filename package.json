@@ -1,0 +1,17 @@
+{
+  "name": "poker-evaluator",
+  "version": "0.0.1",
+  "description": "Interview task help for my lovely Betty ;)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.1.0",
+    "jest": "^22.1.1",
+    "regenerator-runtime": "^0.11.1"
+  }
+}
